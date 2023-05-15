@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\WindowsApplication1\bin\Debug\PERC2.exe.config
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\WindowsApplication1\obj\Debug\Interop.MMEDITLib.dll
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\WindowsApplication1\obj\Debug\Interop.MMIOLib.dll
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\WindowsApplication1\obj\Debug\Interop.MMMARKLib.dll
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\WindowsApplication1\obj\Debug\Interop.MMSTATUSLib.dll
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\WindowsApplication1\obj\Debug\AxInterop.MMEDITLib.dll
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\WindowsApplication1\obj\Debug\AxInterop.MMIOLib.dll
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\WindowsApplication1\obj\Debug\AxInterop.MMMARKLib.dll
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\WindowsApplication1\obj\Debug\AxInterop.MMSTATUSLib.dll
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\WindowsApplication1\obj\Debug\PERC2.csproj.ResolveComReference.cache

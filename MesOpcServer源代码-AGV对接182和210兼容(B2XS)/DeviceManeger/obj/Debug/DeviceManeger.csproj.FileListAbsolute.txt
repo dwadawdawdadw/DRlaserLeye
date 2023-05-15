@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\DeviceManeger\bin\Debug\DeviceManeger.dll.config
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\DeviceManeger\bin\Debug\DeviceManeger.dll
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\DeviceManeger\bin\Debug\DeviceManeger.pdb
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\DeviceManeger\bin\Debug\AxInterop.ActUtlTypeLib.dll
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\DeviceManeger\bin\Debug\EasyModbus.dll
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\DeviceManeger\bin\Debug\SunnyUI.Common.dll
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\DeviceManeger\bin\Debug\SunnyUI.dll
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\DeviceManeger\bin\Debug\NationalInstruments.UI.Styles3D.dll
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\DeviceManeger\obj\Debug\DeviceManeger.AGVComForm.resources
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\DeviceManeger\obj\Debug\DeviceManeger.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\DeviceManeger\obj\Debug\DeviceManeger.dll
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\DeviceManeger\obj\Debug\DeviceManeger.pdb
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\DeviceManeger\obj\Debug\DeviceManeger.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\MesOpcServer源代码-AGV对接182和210兼容(B2XS)\DeviceManeger\obj\Debug\DeviceManeger.dll.licenses
